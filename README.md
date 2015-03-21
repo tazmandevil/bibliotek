@@ -9,10 +9,10 @@ Tables:
 
 Goals:
 
-1 Add my physical books
-2 Add my ebooks
+1. Add my physical books
+2. Add my ebooks
 
 Later:
 
-3 Add my lost books
-4 Add favorites, etc.
+3. Add my lost books
+4. Add favorites, etc.
